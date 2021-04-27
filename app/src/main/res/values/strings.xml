@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Finance</string>
+    <string name="log_in">Login</string>
+    <string name="greeting_str">Please login\n to continue</string>
+    <string name="the_payment">The Payment Platform\nBuilt For Future</string>
+    <string name="netspay_helps">NetsPay helps you transfer money\ninstantly to anyone over 100+ countries</string>
+    <string name="register">Register</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="view_all">view all</string>
+    <string name="_26_ransactions">transactions</string>
+    <string name="hailey_nolan">Hailey Nolan</string>
+    <string name="home">Home</string>
+    <string name="cards">Cards</string>
+    <string name="earnings">Earnings</string>
+    <string name="profile">Profile</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+</resources>
